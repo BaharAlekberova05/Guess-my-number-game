@@ -30,5 +30,5 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BaharAlekberova05/guess-my-number.git
+   git clone https://github.com/BaharAlekberova05/Guess-my-number-game.git
    ```
