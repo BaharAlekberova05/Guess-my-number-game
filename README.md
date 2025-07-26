@@ -7,7 +7,7 @@ This mini project is ideal for practicing **DOM manipulation**, working with **e
 
 ## 🌐 Live Demo
 
-https://guess-my-number-sandy.vercel.app/
+https://guess-my-number-game-chi.vercel.app/
 
 ## 💡 Features
 
